@@ -1,0 +1,2 @@
+Standard Template Library
+vector, queue, dequeue etc pour stocker les joueurs
